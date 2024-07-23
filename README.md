@@ -36,13 +36,13 @@ Visualize the model's performance metrics using plots between loss and accuracy 
 
 ### Results
 ----
-VGG15 model output
+VGG15 model output<br><br>
 ![VGG15 model output](https://github.com/bhavesa16/Deep-Learning-project/blob/main/vgg_output.png)
 
-CNN model output
+CNN model output<br><br>
 ![cnn output](https://github.com/bhavesa16/Deep-Learning-project/blob/main/cnn_model_op.png)
 
-Resnet model output
+Resnet model output<br><br>
 ![resnet](https://github.com/bhavesa16/Deep-Learning-project/blob/main/resnet_output.png)
 
 Vgg16 model has the highest accuracy among the three models.
